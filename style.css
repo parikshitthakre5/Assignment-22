@@ -1,0 +1,26 @@
+body{
+    background-color: #f9f4ef;
+}
+.text_center{
+    text-align: center;
+    font-weight: 900;
+    font-size: xx-large;
+}
+.page-head{
+    color:#f25042 ;
+}
+.center{
+    display: block;
+    margin: 0 auto;
+}
+.und{
+    text-decoration: none;
+    color: #fffffe;
+    cursor: pointer;
+}
+.mar1{
+    margin-top: 20px;
+}
+.poi{
+    cursor: pointer;
+}
